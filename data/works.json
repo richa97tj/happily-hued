@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "buddha",
+    "title": "Buddha",
+    "year": null,
+    "medium": "",
+    "dimensions": "",
+    "filename": "buddha.png",
+    "alt": "Buddha — painting",
+    "note": "Please confirm year / medium / dimensions"
+  },
+  {
+    "slug": "elephants",
+    "title": "Elephants",
+    "year": null,
+    "medium": "",
+    "dimensions": "",
+    "filename": "elephants.jpg",
+    "alt": "Elephants — painting",
+    "note": "Please confirm year / medium / dimensions"
+  },
+  {
+    "slug": "goan-skies",
+    "title": "Goan Skies",
+    "year": null,
+    "medium": "",
+    "dimensions": "",
+    "filename": "goan-skies.jpg",
+    "alt": "Goan Skies — painting",
+    "note": "Please confirm year / medium / dimensions"
+  },
+  {
+    "slug": "heiwa-no-hikari",
+    "title": "Heiwa no Hikari",
+    "year": null,
+    "medium": "",
+    "dimensions": "",
+    "filename": "heiwa-no-hikari.png",
+    "alt": "Heiwa no Hikari — painting",
+    "note": "Please confirm year / medium / dimensions"
+  },
+  {
+    "slug": "pines-of-peace",
+    "title": "Pines of Peace",
+    "year": null,
+    "medium": "",
+    "dimensions": "",
+    "filename": "pines-of-peace.jpg",
+    "alt": "Pines of Peace — painting",
+    "note": "Please confirm year / medium / dimensions"
+  },
+  {
+    "slug": "the-path-taken",
+    "title": "The Path Taken",
+    "year": null,
+    "medium": "",
+    "dimensions": "",
+    "filename": "the-path-taken.jpg",
+    "alt": "The Path Taken — painting",
+    "note": "Please confirm year / medium / dimensions"
+  }
+]
